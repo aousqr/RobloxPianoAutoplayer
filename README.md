@@ -5,4 +5,4 @@ Script: https://github.com/Nameless9000/RobloxPianoAutoplayer/blob/main/script.l
 
 Example Sheet: https://github.com/Nameless9000/RobloxPianoAutoplayer/blob/main/examplesheet.lua
 
-Thread: https://v3rmillion.net/showthread.php?tid=1141040
+Thread: [https://v3rmillion.net/showthread.php?tid=1173676](https://v3rmillion.net/showthread.php?tid=1173676)
